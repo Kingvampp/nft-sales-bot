@@ -132,3 +132,4 @@ const postSaleToDiscord = (title, price, date, signature, imageURL) => {
         }
     )
 }
+RunSalesBot();$ PROJECT_ADDRESS=5dqVZcu4KDE1GwH3pueymzYZP8urdnyZfffTF8N1z2Vi DISCORD_URL=https://discord.com/api/webhooks/920070145139965984/zinLu94Q48owDd4PaDL709FNpWsFwDcZW--dAI-tEJH-slXKnWNdXAba9SSyzvuptUVf node sales_bot.js
